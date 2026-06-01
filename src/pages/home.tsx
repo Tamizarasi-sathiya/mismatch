@@ -8,13 +8,13 @@ import { useState } from 'react';
 const PROFILES = [
   {
     id: 1,
-    name: "Aisha",
-    age: 26,
-    area: "Anna Nagar",
-    mismatchScore: 84,
-    image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=800&auto=format&fit=crop&q=60",
-    hobbies: ["Reading", "Coffee"],
-    differences: ["Hates hiking", "Early bird"]
+    name: "Tamizh",
+    age: 19,
+    area: "KNK",
+    mismatchScore: 99.9,
+    image: "/images/tamizh.png",
+    hobbies: ["shopping", "hangouts"],
+    differences: ["Feminist", "hater promax"]
   },
   {
     id: 2,
